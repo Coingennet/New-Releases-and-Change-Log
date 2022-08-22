@@ -34,6 +34,7 @@
 * [Secure your account with 2FA security](secure-your-account-with-2fa-security.md)
 * [Deposit](deposit.md)
 * [Withdraw](withdraw.md)
+* [Cancel contract](withdraw-1.md)
 * [Transfer](transfer.md)
 * [Find master trader and copytrade](find-master-trader.md)
 * [Choose a Portfolio](choose-a-portfolio.md)
