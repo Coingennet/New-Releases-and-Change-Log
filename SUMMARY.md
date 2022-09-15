@@ -3,7 +3,7 @@
 * [About  Coingen](README.md)
 * [🚼 New Releases and Change Log](new-releases-and-change-log.md)
 * [Terms of Use](terms-of-use.md)
-* [CoinGen Methodology](terms-of-use-1.md)
+* [CoinGen Methodology](methodology.md)
 * [Privacy Policy](what-is-deficopy.md)
 * [How secure is  coingen.net](how-secure-is-deficopy.net.md)
 * [How does  coingen.net  receive revenue?](how-does-deficopy-receive-revenue.md)
