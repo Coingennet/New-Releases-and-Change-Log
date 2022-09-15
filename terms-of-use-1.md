@@ -7,29 +7,35 @@ description: >-
 
 # CoinGen Methodology
 
-### Supply &#x20;
+### 1. Supply Metrics &#x20;
 
 {% hint style="info" %}
-The actual liquidity supply in the market and the ratio between these metrics: Max Supply, Total supply, Circulating supply and the staking tokens. &#x20;
+The actual liquidity supply in the market and the ratio between these datas: Max Supply, Total supply, Circulating supply and the staking tokens. &#x20;
 {% endhint %}
 
-
+* Max Supply:
+* Total Supply:
+* Circ. Supply:
+* Staking tokens:
 
 When token are kept in cold wallets or staking in network that are off exchanges, this makes it illiquid. It is still a part of the circulating supply but not part of the liquid supply. These tokens are not available for selling or trading. It is a way of removing liquidity from the market, so it can create a supply crunch when the demand is high.
 
-### 1. The scope of the services
+### 2. Market Cap Metrics
 
-{% hint style="success" %}
-Copy provides an online tool (the “platform”) that allows Users to automate trading in a number of different virtual currencies (“cryptocurrency”) on different crypto exchanges.&#x20;
-
-The platform provides Users with tools that allow the Users to manage their cryptocurrency holdings, including but not limited to tools that allow to place buy/sell orders or to copy other User’s (“trader”) portfolio on one or several third party cryptocurrency exchanges via public APIs.
+{% hint style="info" %}
+This is the ratio between these datas: Volume, Market Cap (MC) and Fully Diluted Value (FDV)
 {% endhint %}
 
-{% hint style="warning" %}
-Copy does not store any of the User’s assets nor gain access to User\`s accounts on third-party cryptocurrency exchanges.
-{% endhint %}
+* FDV:
+* :&#x20;
+* Volume:
 
+Through our chart, you can see two crucial metrics:
 
+1. The MC/FDV ratio: **allows investors to assess whether a token price is overheated**. That's because a low ratio indicates that the supply will eventually be higher than the actual demand once project owners release more tokens. With the demand increasing rapidly, the price will likely drop as the market adjusts.
+2. Volume/ MC: Low trading volume can indicate a lack of interest in either buying or selling and vice versa.&#x20;
+
+Hence, it will help investors possibly to determine if  token is overvalued and has many investors terested in a certain time p or not.
 
 #### CopyTrader's Social Trading service
 
