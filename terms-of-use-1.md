@@ -40,31 +40,22 @@ Additional, another meaning that we need to consider as well is when the lower r
 
 Hence, it will help investors possibly to determine if  token is overvalued and has many investors terested in a certain time p or not. The more the ratio of trading volume to market cap, the better it is.
 
-#### CopyTrader's Social Trading service
-
-{% hint style="success" %}
-The User has an opportunity to follow and copy trader’s portfolio. The User will get signals when subscribed trader’s portfolio will be rebalanced.
-{% endhint %}
-
-{% hint style="danger" %}
-If User copy trader’s portfolio or make any investment decisions in reliance on information received from such signal User does so at his own risk and Copy and its affiliates, their employees and its agents will not be liable for any losses that User may sustain.
-{% endhint %}
-
-#### Specific provisions in respect of Social Trading service
-
-Copy's Social Trading services allows the User to view the investment performance of a model trader by providing the User with detailed account information, trading history, risk profile and other pertinent information. By selecting the Social Trading service, the User should bear in mind all aspects and factors including, but not limited to, the risk nature of the copied account and their investment objectives.
-
-In making a decision to copy a specific trader or traders, strategy and/or portfolio, the User acknowledges that they have considered their entire financial situation including financial commitments and understood that using Copy's Social Trading service is highly speculative and that the User could sustain significant losses. Please note that Copy unable to provide any guarantee as to the performance of any particular investment, account, portfolio or strategy. For further information in connection with the risks associated with our service see the Disclaimer. The User acknowledges that they have considered all risks associated with the services and Social Trading.
-
-
+### 3. Current &#x20;
 
 {% hint style="info" %}
-The User further authorises Copy to execute any and all transactions and/or positions undertaken by the trader, account, portfolio and/or strategy the User chooses to copy using the Social Trading service.
+This metric aims to nalyze the actual inflation rate through the data: Token Release, Block Rewards, Burn,&#x20;
 {% endhint %}
 
-All Transactions are done automatically once initiated by the User and do not require any prior consultation, consent or approval of ongoing activity/copied trades. The User hereby confirms that they acknowledge that at any time, upon their sole discretion, they can stop, pause, restrict and/or limit any Social Trading activity performed by him via the Site. The User remains, at all times, solely responsible for both monitoring and selecting and assessing: (i) the suitability of the copied accounts; and (ii) the overall performance of the copied trader, account, portfolio and/or strategy.&#x20;
+* Token Release:
+* Block Rewards:
+* Burn:
+* Debates:
 
-Defi Copy shall continue to be committed to exercising reasonable endeavours to monitor the performance of copied trader, account, portfolio and/or strategy, against parameters established by it, which may include, risk behavior, profitability, drawdown and any other parameters deemed relevant by CopyTrader and to stock and/or block any trader, account, portfolio and/or strategy from being copied. Defi Copy shaerves the right to pause, to copy or to stop copying any trader, account, portfolio and/or strategy, at its sole and absolute discretion.
+If some cryptocurrencies has max supply, it's inherently inflationary, meaning the number of coins in circulation rises over time. Bitcoin is a good example for comprehensive understanding this. Bitcoin has max supply is 21 million and it still has current inflation rate is 1.75% (at the writing time). It means the number of BTC in circulation rises over time.
+
+New cryptocurrencies can be mined into existence – that’s how Bitcoin works – or issued to Proof-of-S validators.
+
+Issuing new cryptocurrencies to network actors encourages participation. Some inflationary currencies have fixed supplies, while others have unlimited supplies – there is no limit to the number of tokens that could be in circulation.
 
 Without derogating from the generality of the Disclaimer, the provision of Social Trading services does not constitute investment advice on the part of Defi Copy. The User is using the Social Trading services at their own risk and Defi Copy  and its affiliates, employees, clients and agents will not be liable for any losses that the User may sustain as a result of the User using such features. No copied trader, account, portfolio and/or strategy guarantees the future performance of the User's account, or any specific level of performance, the success of any investment strategy or the success of our overall management. Investment strategies are subject to various market, currency, economic, political and business risks. Investment decisions may not be profitable and may result in the loss of your entire invested amount.&#x20;
 
