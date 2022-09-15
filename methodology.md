@@ -75,11 +75,10 @@ Defi Copy will use reasonable endeavors to ensure that the User can normally acc
 _A measure of token's value (ratio of token's market cap) in the context of the larger cryptocurrency market that is another tokens in the same sector._&#x20;
 {% endhint %}
 
-For example:
+For example: _ **Near.Dom** = \[Near market cap/ Sector market cap (Smart contract platform)]\*100_
 
-_**Near.Dom** = \[Near market cap/ Sector market cap (Smart contract platform)]\*100_
-
-
+\
+It is simply **the ratio between the market cap of a particular cryptocurrency and the total market cap of the entire sector in crypto space**. Near's dominance, a measure of how strong a cryptocurrency is compared with all other coins in the market.
 
 ### 5. User verification
 
