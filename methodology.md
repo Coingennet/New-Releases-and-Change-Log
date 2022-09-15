@@ -63,7 +63,7 @@ Issuing new cryptocurrencies to network actors encourages participation. Some in
 This metric include the actual amount of tokens put into the market: tokens unlocked for investors, team, activity, ecosytem... and block rewards as well.
 {% endhint %}
 
-
+_**Monthly Token Release** = Circulating supply current month -  Circulating supply previous month_
 
 Defi Copy will strive to keep the Site up and running; however, all online services suffer from occasional disruptions and outages and Defi Copy is not liable for any disruption or loss the User may suffer as a result. Thus, Defi Copy does not provide any guarantees that access to the Site will not be interrupted or that there will be no delays, failures, errors, omissions or loss of transmitted information.
 
