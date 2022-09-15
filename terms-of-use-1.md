@@ -40,7 +40,7 @@ Additional, another meaning that we need to consider as well is when the lower r
 
 Hence, it will help investors possibly to determine if  token is overvalued and has many investors terested in a certain time p or not. The more the ratio of trading volume to market cap, the better it is.
 
-### 3. Current &#x20;
+### 3. Current Inflation &#x20;
 
 {% hint style="info" %}
 This metric aims to nalyze the actual inflation rate through the data: Token Release, Block Rewards, Burn,&#x20;
