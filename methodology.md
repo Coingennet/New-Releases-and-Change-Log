@@ -43,7 +43,7 @@ Hence, it will help investors possibly to determine if  token is overvalued and 
 ### 3. Current Inflation &#x20;
 
 {% hint style="info" %}
-This metric aims to nalyze the actual inflation rate through the data: Token Release, Block Rewards, Burn,&#x20;
+This metric aims to analyze the actual inflation rate through the data: Token Release, Block Rewards, Burn, Debate
 {% endhint %}
 
 * Token Release:
