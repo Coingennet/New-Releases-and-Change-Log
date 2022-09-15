@@ -57,29 +57,13 @@ New cryptocurrencies can be mined into existence – that’s how Bitcoin works 
 
 Issuing new cryptocurrencies to network actors encourages participation. Some inflationary currencies have fixed supplies, while others have unlimited supplies – there is no limit to the number of tokens that could be in circulation.
 
-Without derogating from the generality of the Disclaimer, the provision of Social Trading services does not constitute investment advice on the part of Defi Copy. The User is using the Social Trading services at their own risk and Defi Copy  and its affiliates, employees, clients and agents will not be liable for any losses that the User may sustain as a result of the User using such features. No copied trader, account, portfolio and/or strategy guarantees the future performance of the User's account, or any specific level of performance, the success of any investment strategy or the success of our overall management. Investment strategies are subject to various market, currency, economic, political and business risks. Investment decisions may not be profitable and may result in the loss of your entire invested amount.&#x20;
-
-{% hint style="warning" %}
-Past performance is not a guarantee or a prediction of future performance.
-{% endhint %}
-
-The User acknowledges and agrees that they have read, understood and accepted the Disclaimer as an inherent part of these Terms of Use. To the maximum extent permissible under the applicable law, neither  Defi Copy or any of its affiliates will be liable for (i) any loss arising from adhering to the User's written or oral instructions, (ii) any loss that the User may suffer by reason of any decision made or other action taken by an account elected to be followed or copied by the User; or (c) specifically any loss arising from any investment decision made or other action taken or omitted in good faith by any followed or copied account, strategy and/or portfolio. Nothing in these Terms of Use will waive or limit any rights that the User may have under any applicable laws which may not be waived or limited.&#x20;
-
-### 2. Financial or legal advice
-
-
-
-{% hint style="danger" %}
-The information on the Site are not an advice, financial advice, investment advice or legal advice of any kind. Defi Copy does not provide any financial, investment or legal advice in connection with the services provided by Defi Copy. Any decision to use the services and to buy or sell cryptocurrencies is the User's decision and Defi Copy will not be liable for any loss suffered.
-{% endhint %}
-
-### 3. Services availability
-
-
+### 4. Monthly Token Release
 
 {% hint style="info" %}
-All Services are provided “AS IS”, without guarantees of any kind, either expressed or implied.
+This metric include the actual amount of tokens put into the market: tokens unlocked for investors, team, activity, ecosytem... and block rewards as well.
 {% endhint %}
+
+
 
 Defi Copy will strive to keep the Site up and running; however, all online services suffer from occasional disruptions and outages and Defi Copy is not liable for any disruption or loss the User may suffer as a result. Thus, Defi Copy does not provide any guarantees that access to the Site will not be interrupted or that there will be no delays, failures, errors, omissions or loss of transmitted information.
 
