@@ -32,8 +32,11 @@ This is the ratio between these datas: Volume, Market Cap (MC) and Fully Diluted
 
 Through our chart, you can see two crucial metrics:
 
-1. The MC/FDV ratio: **allows investors to assess whether a token price is overheated**. That's because a low ratio indicates that the supply will eventually be higher than the actual demand once project owners release more tokens. With the demand increasing rapidly, the price will likely drop as the market adjusts.
-2. Volume/ MC: Low trading volume can indicate a lack of interest in either buying or selling and vice versa.&#x20;
+1. **The MC/FDV ratio:** <mark style="color:blue;"></mark> **allows investors to assess whether a token price is overheated**. That's because a low ratio indicates that the supply will eventually be higher than the actual demand once project owners release more tokens. With the demand increasing rapidly, the price will likely drop as the market adjusts.&#x20;
+
+Additional, another meaning that we need to consider as well is when the lower ratio indicates there’ll be **a lot of inflationary pressure as new coins are released.**
+
+&#x20; 2\. **Volume/ MC:** Low trading volume can indicate a lack of interest in either buying or selling and vice versa.&#x20;
 
 Hence, it will help investors possibly to determine if  token is overvalued and has many investors terested in a certain time p or not. The more the ratio of trading volume to market cap, the better it is.
 
