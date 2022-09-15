@@ -69,15 +69,17 @@ Defi Copy will strive to keep the Site up and running; however, all online servi
 
 Defi Copy will use reasonable endeavors to ensure that the User can normally access the Site in accordance with the Terms of Use. Defi Copy may suspend use of the Site for maintenance and will make reasonable efforts to give the User a notice. The User acknowledges that this may not be possible in an emergency.
 
-### 4. Intellectual property rights
-
-
+### 5. Token.Dom vs Sector.Dom&#x20;
 
 {% hint style="info" %}
-All content on this Site is the property of Defi Copy and is protected by copyright, patent, trademark and any other applicable laws, unless otherwise specified hereby.
+_A measure of token's value (ratio of token's market cap) in the context of the larger cryptocurrency market that is another tokens in the same sector._&#x20;
 {% endhint %}
 
-The trademarks, trade names, service marks and logos of Defi Copy and others used on the Site (hereinafter the “Trademarks”) are the property of Defi Copy and its respective owners. The software, applications, text, images, graphics, data, prices, trades, charts, graphs, video and audio materials used on this Site belong to Defi Copy  The Trademarks and other content on the Site should not be copied, reproduced, modified, republished, uploaded, posted, transmitted, scraped, collected or distributed in any form or by any means, whether manual or automated. The use of any content from the Site on any other site or a networked computer environment for any other purpose is strictly prohibited; any such unauthorized use may violate copyright, patent, trademark and any other applicable laws and could result in criminal or civil penalties.
+For example:
+
+_**Near.Dom** = \[Near market cap/ Sector market cap (Smart contract platform)]\*100_
+
+
 
 ### 5. User verification
 
