@@ -60,7 +60,7 @@ Issuing new cryptocurrencies to network actors encourages participation. Some in
 ### 4. Monthly Token Release
 
 {% hint style="info" %}
-This metric include the actual amount of tokens put into the market: tokens unlocked for investors, team, activity, ecosytem... and block rewards as well.
+This metric include the actual amount of tokens put into the market: tokens unlocked for investors, team, activity, ecosytem... and block rewards as well. The price is the hgighest price in the month.
 {% endhint %}
 
 _**Monthly Token Release** = Circulating supply current month -  Circulating supply previous month_
