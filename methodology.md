@@ -40,22 +40,32 @@ Additional, another meaning that we need to consider as well is when the lower r
 
 Hence, it will help investors possibly to determine if  token is overvalued and has many investors terested in a certain time p or not. The more the ratio of trading volume to market cap, the better it is.
 
-### 3. Current Inflation &#x20;
+### 3. Actual Inflation &#x20;
 
 {% hint style="info" %}
 This metric aims to analyze the actual inflation rate through the data: Token Release, Block Rewards, Burn, Debate
 {% endhint %}
 
-* Token Release:
-* Block Rewards:
-* Burn:
+This metric include the actual amount of tokens put into the market: tokens unlocked for investors, team, activity, ecosytem... and block rewards as well.&#x20;
+
+_**Actual Inflation** = \[(Circ. supply current day -  Circ. supply previous year in the same day )/Circ. supply previous year in the same day]\*100_
+
+* Token Release: token unlocked for investors who participated in fundraising rounds of project&#x20;
+* Block Rewards: according to the token minted in network of project
+* Burned: Burning tokens involves **indefinitely removing a digital asset from circulation and reducing its supply. Amount of token burning data depends on algorithsm of project's network or according to program.**
 * Debates:
 
-If some cryptocurrencies has max supply, it's inherently inflationary, meaning the number of coins in circulation rises over time. Bitcoin is a good example for comprehensive understanding this. Bitcoin has max supply is 21 million and it still has current inflation rate is 1.75% (at the writing time). It means the number of BTC in circulation rises over time.
 
-New cryptocurrencies can be mined into existence – that’s how Bitcoin works – or issued to Proof-of-S validators.
 
-Issuing new cryptocurrencies to network actors encourages participation. Some inflationary currencies have fixed supplies, while others have unlimited supplies – there is no limit to the number of tokens that could be in circulation.
+Some inflationary currencies have fixed supplies (Max suppluy), while others have unlimited supplies (No max supply) – there is no limit to the number of tokens that could be in circulation.
+
+ome cryptocurrencies **has max supply**, it's  inflationary, meaning the number of coins in circulation rises over time. Bitcoin is a good example for comprehensive understanding this. Bitcoin has max supply is 21 million and it still has current inflation rate is 1.75% (at the writing time). It means the number of BTC in circulation rises over time.
+
+For a handful of cryptocurrencies that **has no max supply**. Issuing new cryptocurrencies to network actors encourages participation. It's inherently inflationary in this way.
+
+Additionally, these coins will be augmented in inflation rate by releasing coin for investors in fundraising rounds over time and then selling or trading in exchanges.
+
+So we calculate it by changes of circulating supply present compared previous month. Then, we can see how these amount of token release will affect the price of token. It's reason why we generate this chart for investor can see the insight of tokenomics.
 
 ### 4. Monthly Token Release
 
